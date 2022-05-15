@@ -301,5 +301,11 @@ int main(int argc, char** argv) {
         cin >> yesOrNo;
       }
       break;
+    case 7:
+      equalizeHistogramGRAY(inputImage);
+      break;
+    case 8:
+      equalizeHistogramCOLOR(inputImage);
+      break;
   }
 }
