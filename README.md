@@ -1,2 +1,2 @@
-# SharpenImage
+# Sharpen Image
 Image Sharpening code
